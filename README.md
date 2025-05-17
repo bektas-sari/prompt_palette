@@ -1,6 +1,7 @@
-# Prompt Palette 🎨
+# Prompt Palette 🎨 (Flutter APP)
 
-**Prompt Palette** is a Flutter app that generates creative prompts for AI art tools like Stable Diffusion and MidJourney. Users can select an artist style, an object, and a theme to generate detailed prompts suitable for digital image generation.
+**Prompt Palette** is a Flutter app that generates creative prompts for AI art tools like Stable Diffusion and MidJourney. 
+Users can select an artist style, an object, and a theme to generate detailed prompts suitable for digital image generation.
 
 ## ✨ Features
 
