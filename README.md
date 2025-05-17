@@ -60,9 +60,5 @@ MIT License.
 
 ---
 
-> "Your imagination begins with the right prompt."
-
----
-
 ### 📌 Short Description (≤ 350 characters)
 
