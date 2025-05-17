@@ -22,7 +22,7 @@ Users can select an artist style, an object, and a theme to generate detailed pr
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/prompt_palette.git
+git clone https://github.com/bektas-sari/prompt_palette.git
 cd prompt_palette
 flutter pub get
 flutter run
