@@ -56,7 +56,7 @@ lib/
 
 ## 📄 License
 
-MIT License
+MIT License.
 
 ---
 
