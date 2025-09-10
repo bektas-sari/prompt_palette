@@ -71,6 +71,3 @@ Flutter Developer & Software Educator
 - **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
 ---
-
-### 📌 Short Description (≤ 350 characters)
-
